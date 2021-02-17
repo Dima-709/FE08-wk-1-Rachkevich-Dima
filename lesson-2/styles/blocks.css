@@ -1,0 +1,28 @@
+body {
+   width: 1170px;
+ }
+ .lamp_blok_image ,.keyboard_blok_image ,
+ .lightning_blok_image {
+   align-items: center;  
+    width: 70px;
+    height: 70px;
+    border: 1px solid #D98943;
+    border-radius: 50%;
+    padding-top: 17px;
+    margin-left: 140px;
+ }
+ .lamp , .keyboard ,
+ .lightning {
+   display: inline-block;
+  width: 350px;
+  margin-left: 16px;
+  margin-right: 16px;
+ }
+ .header {
+  margin-top: 100px;
+  margin-bottom: 67px;
+ }
+ .line {
+  margin-top: 57px;
+  margin-bottom: 30px;
+ }
