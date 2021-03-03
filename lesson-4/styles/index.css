@@ -1,0 +1,10 @@
+@import url(blocks.css);
+@import url(price.css);
+@import url(customers.css);
+@import url(axure.css);
+* {
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
